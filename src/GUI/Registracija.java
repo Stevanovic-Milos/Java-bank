@@ -119,8 +119,8 @@ public class Registracija extends glavniOkvir{
             JOptionPane.showMessageDialog(Registracija.this,"Sva polja moraju biti popunjena");
             return false;
         }
-        if(ime.length()<6){
-            JOptionPane.showMessageDialog(Registracija.this,"Ime mora imati vise od 6 karaktera");
+        if(ime.length()<3){
+            JOptionPane.showMessageDialog(Registracija.this,"Ime mora imati vise od 3 karaktera");
             return false;
         }
 
