@@ -85,8 +85,6 @@ Java Bank is a personal banking application built in Java with a graphical user 
 - 🔑 **Two-Factor Authentication** - Enhance security.
 - 🔄 **Automated Reports** - Generate financial reports.
 
-## License 📜✅
-This project is open-source and free to use under the [MIT License](LICENSE).
 
 ---
 
