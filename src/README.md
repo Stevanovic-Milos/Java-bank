@@ -76,6 +76,7 @@ Java Bank is a personal banking application built in Java with a graphical user 
 3. Set your **image file paths** for backgrounds.
 4. Compile and run the application:
    ```bash
+   cd src
    javac Main.java
    java Main
    ```
