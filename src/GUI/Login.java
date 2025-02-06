@@ -16,7 +16,7 @@ public class Login extends glavniOkvir {
     protected void dodajGuiKomponente() {
         setSize(700,500);
 
-        ImageIcon slikaPozadine = new ImageIcon("C:\\Users\\MS\\IdeaProjects\\Banka\\src\\Slike\\SlikaPozadina.png");
+        ImageIcon slikaPozadine = new ImageIcon("C:\\Users\\steva\\OneDrive\\Documents\\Java-bank\\src\\Slike\\RegPoz.png");
         JLabel pozadina = new JLabel(slikaPozadine);
         pozadina.setBounds(0, 0, 700, 500);
         setContentPane(pozadina);

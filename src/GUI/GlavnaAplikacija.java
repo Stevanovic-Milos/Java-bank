@@ -21,7 +21,7 @@ public class GlavnaAplikacija extends glavniOkvir implements ActionListener {
     @Override
     protected void dodajGuiKomponente() {
 
-        ImageIcon slikaPozadine = new ImageIcon("C:\\Users\\MS\\IdeaProjects\\Banka\\src\\Slike\\RegPoz.png");
+        ImageIcon slikaPozadine = new ImageIcon("C:\\Users\\steva\\OneDrive\\Documents\\Java-bank\\src\\Slike\\RegPoz.png");
         JLabel pozadina = new JLabel(slikaPozadine);
         pozadina.setBounds(0, 0, 700, 500);
         setContentPane(pozadina);

@@ -1,12 +1,8 @@
-import GUI.GlavnaAplikacija;
 import GUI.Login;
-import GUI.Registracija;
-import db_objs.Korisnik;
 
 import javax.swing.*;
-import java.math.BigDecimal;
 
-public class AppPokretanje {
+public class Main {
     public static void main(String[] args) {
         SwingUtilities.invokeLater(new Runnable() {
             @Override

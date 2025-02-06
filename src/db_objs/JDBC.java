@@ -5,9 +5,9 @@ import java.util.ArrayList;
 import java.util.Random;
 
 public class JDBC {
-    private static final String DB_URL = "jdbc:mysql://127.0.0.1:3306/banka";
-    private static final String DB_USERNAME = "root";
-    private static final String DB_PASSWORD = "1777";
+    private static final String DB_URL = "";
+    private static final String DB_USERNAME = "";
+    private static final String DB_PASSWORD = "";
 
     public static Korisnik validacijaPrijave(String ime, String sifra) {
         try {
