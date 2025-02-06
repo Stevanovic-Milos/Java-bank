@@ -3,10 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GUI](https://img.shields.io/badge/GUI-Swing-blue?style=for-the-badge)
-![Security](https://img.shields.io/badge/Security-Enabled-green?style=for-the-badge)
 ![Database](https://img.shields.io/badge/Database-SQL-important?style=for-the-badge)
-![Transactions](https://img.shields.io/badge/Transactions-Secure-blue?style=for-the-badge)
-![Encryption](https://img.shields.io/badge/Encryption-AES256-critical?style=for-the-badge)
 ![Multi-User](https://img.shields.io/badge/Multi--User-Support-orange?style=for-the-badge)
 
 Java Bank is a personal banking application built in Java with a graphical user interface (GUI). It allows users to create an account, log in, perform deposits and withdrawals, and track their account balance in real-time. The application is designed as a personal project and includes essential banking functionalities.
