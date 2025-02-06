@@ -66,8 +66,8 @@ Java Bank is a personal banking application built in Java with a graphical user 
 ### Running the Application 🚀💡
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Stevanovic-Milos/java-bank.git
-   cd java-bank
+   git clone https://github.com/Stevanovic-Milos/Java-bank.git
+   cd Java-bank
    ```
 2. Configure the **database connection** in the code.
 3. Set your **image file paths** for backgrounds.
