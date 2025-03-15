@@ -35,7 +35,7 @@ public class Login extends glavniOkvir {
         JLabel korisnikLabel=new JLabel("Korisnicko ime:");
         korisnikLabel.setBounds(20,100,super.getWidth()-60,24);
         korisnikLabel.setFont(new Font("Dialog",Font.BOLD,25));
-        korisnikLabel.setForeground(Color.WHITE);
+        korisnikLabel.setForeground(Color.WHITE);2
         pozadina.add(korisnikLabel);
 
         JTextField korisikText=new JTextField();
